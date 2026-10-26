@@ -1,0 +1,56 @@
+// Table: EmailBehavior
+
+Sent Users =
+DISTINCTCOUNT ( EmailBehavior[email_id] )
+
+Open Users =
+CALCULATE (
+    DISTINCTCOUNT ( EmailBehavior[email_id] ),
+    EmailBehavior[opened] = 1
+)
+
+Reply Users =
+CALCULATE (
+    DISTINCTCOUNT ( EmailBehavior[email_id] ),
+    EmailBehavior[replied] = 1
+)
+
+Follow Up Users =
+CALCULATE (
+    DISTINCTCOUNT ( EmailBehavior[email_id] ),
+    EmailBehavior[follow_up_completed] = 1
+)
+
+Open Rate =
+DIVIDE ( [Open Users], [Sent Users] )
+
+Reply Rate =
+DIVIDE ( [Reply Users], [Sent Users] )
+
+Reply After Open Rate =
+DIVIDE ( [Reply Users], [Open Users] )
+
+Follow Up Rate =
+DIVIDE ( [Follow Up Users], [Sent Users] )
+
+Duplicate Email IDs =
+COUNTROWS ( EmailBehavior ) - DISTINCTCOUNT ( EmailBehavior[email_id] )
+
+Missing Critical Fields =
+COUNTROWS (
+    FILTER (
+        EmailBehavior,
+        ISBLANK ( EmailBehavior[send_date] )
+            || ISBLANK ( EmailBehavior[email_type] )
+            || ISBLANK ( EmailBehavior[channel] )
+    )
+)
+
+Funnel Logic Exceptions =
+COUNTROWS (
+    FILTER (
+        EmailBehavior,
+        EmailBehavior[replied] > EmailBehavior[opened]
+            || EmailBehavior[follow_up_completed] > EmailBehavior[replied]
+    )
+)
