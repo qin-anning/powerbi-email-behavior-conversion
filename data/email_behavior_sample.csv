@@ -1,0 +1,481 @@
+email_id,user_id,send_date,send_week,email_type,channel,region,device_type,user_segment,opened,replied,follow_up_completed
+EML-0001,USR-0278,2026-03-09,2026-W11,Manual,Paid search,China,Mobile,High intent,1,0,0
+EML-0002,USR-0139,2026-03-27,2026-W13,AI assisted,Referral,Thailand,Tablet,Returning,1,0,0
+EML-0003,USR-0192,2026-04-15,2026-W16,Manual,Referral,Thailand,Tablet,New,0,0,0
+EML-0004,USR-0210,2026-03-15,2026-W11,AI assisted,Campus,Malaysia,Mobile,New,0,0,0
+EML-0005,USR-0192,2026-04-04,2026-W14,Manual,Campus,Singapore,Mobile,Returning,1,1,0
+EML-0006,USR-0102,2026-03-21,2026-W12,AI assisted,Campus,China,Mobile,Returning,0,0,0
+EML-0007,USR-0123,2026-03-15,2026-W11,Manual,Paid search,China,Desktop,New,0,0,0
+EML-0008,USR-0274,2026-04-15,2026-W16,AI assisted,Campus,China,Desktop,New,1,0,0
+EML-0009,USR-0066,2026-04-24,2026-W17,Manual,Paid search,Thailand,Mobile,New,0,0,0
+EML-0010,USR-0183,2026-03-19,2026-W12,AI assisted,Referral,China,Tablet,High intent,0,0,0
+EML-0011,USR-0237,2026-04-16,2026-W16,Manual,Referral,China,Mobile,Returning,0,0,0
+EML-0012,USR-0042,2026-03-20,2026-W12,AI assisted,Organic,Malaysia,Mobile,Returning,0,0,0
+EML-0013,USR-0030,2026-04-21,2026-W17,Manual,Organic,China,Desktop,New,0,0,0
+EML-0014,USR-0111,2026-03-24,2026-W13,AI assisted,Paid search,China,Mobile,Returning,1,0,0
+EML-0015,USR-0224,2026-04-06,2026-W15,Manual,Referral,Singapore,Mobile,High intent,0,0,0
+EML-0016,USR-0218,2026-03-21,2026-W12,AI assisted,Campus,Thailand,Desktop,Returning,0,0,0
+EML-0017,USR-0040,2026-03-10,2026-W11,Manual,Referral,China,Mobile,Returning,0,0,0
+EML-0018,USR-0099,2026-04-23,2026-W17,AI assisted,Referral,Malaysia,Mobile,High intent,0,0,0
+EML-0019,USR-0082,2026-04-06,2026-W15,Manual,Referral,Malaysia,Desktop,High intent,0,0,0
+EML-0020,USR-0265,2026-04-16,2026-W16,AI assisted,Campus,Malaysia,Mobile,High intent,1,0,0
+EML-0021,USR-0154,2026-04-13,2026-W16,Manual,Referral,Thailand,Tablet,High intent,1,0,0
+EML-0022,USR-0073,2026-03-15,2026-W11,AI assisted,Campus,Thailand,Mobile,High intent,1,0,0
+EML-0023,USR-0299,2026-04-26,2026-W17,Manual,Campus,Thailand,Mobile,Returning,1,0,0
+EML-0024,USR-0183,2026-03-12,2026-W11,AI assisted,Referral,Singapore,Desktop,High intent,0,0,0
+EML-0025,USR-0271,2026-04-19,2026-W16,Manual,Referral,Malaysia,Desktop,Returning,0,0,0
+EML-0026,USR-0047,2026-04-25,2026-W17,AI assisted,Organic,Malaysia,Mobile,High intent,0,0,0
+EML-0027,USR-0069,2026-04-15,2026-W16,Manual,Campus,Singapore,Mobile,High intent,0,0,0
+EML-0028,USR-0029,2026-04-21,2026-W17,AI assisted,Organic,Singapore,Desktop,High intent,0,0,0
+EML-0029,USR-0001,2026-04-21,2026-W17,Manual,Paid search,Singapore,Mobile,Returning,0,0,0
+EML-0030,USR-0030,2026-03-20,2026-W12,AI assisted,Paid search,Singapore,Mobile,New,0,0,0
+EML-0031,USR-0300,2026-03-15,2026-W11,Manual,Organic,Thailand,Mobile,New,1,0,0
+EML-0032,USR-0196,2026-03-06,2026-W10,AI assisted,Organic,China,Desktop,Returning,1,0,0
+EML-0033,USR-0198,2026-04-02,2026-W14,Manual,Paid search,Thailand,Tablet,Returning,0,0,0
+EML-0034,USR-0094,2026-04-23,2026-W17,AI assisted,Campus,China,Mobile,New,0,0,0
+EML-0035,USR-0259,2026-04-11,2026-W15,Manual,Organic,China,Mobile,High intent,0,0,0
+EML-0036,USR-0224,2026-04-24,2026-W17,AI assisted,Organic,Singapore,Desktop,New,0,0,0
+EML-0037,USR-0177,2026-04-08,2026-W15,Manual,Organic,Malaysia,Mobile,New,0,0,0
+EML-0038,USR-0168,2026-03-08,2026-W10,AI assisted,Campus,Singapore,Desktop,High intent,0,0,0
+EML-0039,USR-0193,2026-03-19,2026-W12,Manual,Organic,Malaysia,Desktop,New,0,0,0
+EML-0040,USR-0246,2026-04-15,2026-W16,AI assisted,Paid search,Singapore,Mobile,Returning,0,0,0
+EML-0041,USR-0123,2026-03-06,2026-W10,Manual,Paid search,Singapore,Mobile,Returning,0,0,0
+EML-0042,USR-0272,2026-03-22,2026-W12,AI assisted,Campus,Malaysia,Mobile,High intent,1,0,0
+EML-0043,USR-0237,2026-04-12,2026-W15,Manual,Organic,China,Mobile,New,0,0,0
+EML-0044,USR-0229,2026-04-01,2026-W14,AI assisted,Campus,Singapore,Mobile,New,0,0,0
+EML-0045,USR-0261,2026-04-06,2026-W15,Manual,Paid search,China,Desktop,Returning,0,0,0
+EML-0046,USR-0236,2026-03-04,2026-W10,AI assisted,Referral,China,Tablet,Returning,0,0,0
+EML-0047,USR-0088,2026-03-24,2026-W13,Manual,Campus,China,Desktop,New,0,0,0
+EML-0048,USR-0090,2026-04-21,2026-W17,AI assisted,Organic,Malaysia,Tablet,New,0,0,0
+EML-0049,USR-0246,2026-04-24,2026-W17,Manual,Paid search,Singapore,Mobile,New,0,0,0
+EML-0050,USR-0147,2026-04-06,2026-W15,AI assisted,Organic,Malaysia,Mobile,High intent,0,0,0
+EML-0051,USR-0265,2026-04-07,2026-W15,Manual,Organic,Singapore,Mobile,Returning,0,0,0
+EML-0052,USR-0292,2026-04-10,2026-W15,AI assisted,Paid search,Thailand,Mobile,High intent,0,0,0
+EML-0053,USR-0051,2026-03-07,2026-W10,Manual,Referral,China,Mobile,Returning,0,0,0
+EML-0054,USR-0118,2026-03-07,2026-W10,AI assisted,Paid search,Malaysia,Mobile,High intent,0,0,0
+EML-0055,USR-0119,2026-03-09,2026-W11,Manual,Campus,Thailand,Mobile,Returning,1,0,0
+EML-0056,USR-0236,2026-04-24,2026-W17,AI assisted,Organic,Malaysia,Mobile,High intent,0,0,0
+EML-0057,USR-0091,2026-03-19,2026-W12,Manual,Paid search,China,Mobile,Returning,0,0,0
+EML-0058,USR-0024,2026-03-28,2026-W13,AI assisted,Campus,Malaysia,Desktop,Returning,1,0,0
+EML-0059,USR-0209,2026-04-20,2026-W17,Manual,Paid search,China,Mobile,Returning,1,0,0
+EML-0060,USR-0125,2026-03-13,2026-W11,AI assisted,Campus,Singapore,Tablet,High intent,0,0,0
+EML-0061,USR-0021,2026-03-27,2026-W13,Manual,Paid search,Singapore,Desktop,Returning,0,0,0
+EML-0062,USR-0001,2026-03-02,2026-W10,AI assisted,Campus,Malaysia,Desktop,High intent,1,0,0
+EML-0063,USR-0283,2026-03-29,2026-W13,Manual,Campus,China,Mobile,New,0,0,0
+EML-0064,USR-0179,2026-04-19,2026-W16,AI assisted,Organic,Thailand,Mobile,New,0,0,0
+EML-0065,USR-0155,2026-03-29,2026-W13,Manual,Campus,China,Mobile,New,1,0,0
+EML-0066,USR-0159,2026-04-26,2026-W17,AI assisted,Organic,China,Mobile,High intent,1,0,0
+EML-0067,USR-0081,2026-04-24,2026-W17,Manual,Campus,China,Desktop,New,0,0,0
+EML-0068,USR-0205,2026-03-22,2026-W12,AI assisted,Referral,China,Mobile,Returning,1,0,0
+EML-0069,USR-0239,2026-03-04,2026-W10,Manual,Organic,Thailand,Mobile,Returning,1,0,0
+EML-0070,USR-0171,2026-03-07,2026-W10,AI assisted,Referral,China,Tablet,Returning,0,0,0
+EML-0071,USR-0133,2026-03-15,2026-W11,Manual,Campus,Singapore,Desktop,Returning,0,0,0
+EML-0072,USR-0177,2026-04-12,2026-W15,AI assisted,Paid search,Thailand,Mobile,New,0,0,0
+EML-0073,USR-0177,2026-03-18,2026-W12,Manual,Referral,China,Mobile,New,0,0,0
+EML-0074,USR-0288,2026-04-24,2026-W17,AI assisted,Referral,Singapore,Mobile,High intent,0,0,0
+EML-0075,USR-0046,2026-03-18,2026-W12,Manual,Paid search,Malaysia,Desktop,High intent,1,0,0
+EML-0076,USR-0224,2026-03-22,2026-W12,AI assisted,Paid search,Malaysia,Mobile,New,1,0,0
+EML-0077,USR-0100,2026-03-05,2026-W10,Manual,Campus,Malaysia,Mobile,Returning,0,0,0
+EML-0078,USR-0226,2026-04-13,2026-W16,AI assisted,Campus,Thailand,Mobile,New,1,1,1
+EML-0079,USR-0107,2026-04-03,2026-W14,Manual,Paid search,China,Mobile,Returning,1,0,0
+EML-0080,USR-0227,2026-03-17,2026-W12,AI assisted,Paid search,Singapore,Mobile,New,0,0,0
+EML-0081,USR-0144,2026-04-04,2026-W14,Manual,Organic,Singapore,Mobile,High intent,1,0,0
+EML-0082,USR-0207,2026-04-21,2026-W17,AI assisted,Paid search,Singapore,Desktop,High intent,1,0,0
+EML-0083,USR-0072,2026-03-31,2026-W14,Manual,Paid search,Singapore,Tablet,Returning,1,0,0
+EML-0084,USR-0041,2026-04-12,2026-W15,AI assisted,Campus,Malaysia,Desktop,High intent,1,0,0
+EML-0085,USR-0249,2026-03-19,2026-W12,Manual,Organic,Malaysia,Desktop,Returning,1,0,0
+EML-0086,USR-0080,2026-04-22,2026-W17,AI assisted,Organic,Singapore,Mobile,High intent,1,0,0
+EML-0087,USR-0161,2026-03-11,2026-W11,Manual,Campus,Thailand,Mobile,New,0,0,0
+EML-0088,USR-0129,2026-04-22,2026-W17,AI assisted,Referral,China,Desktop,Returning,1,0,0
+EML-0089,USR-0183,2026-04-07,2026-W15,Manual,Organic,Singapore,Desktop,Returning,1,1,0
+EML-0090,USR-0091,2026-04-26,2026-W17,AI assisted,Campus,Singapore,Desktop,New,0,0,0
+EML-0091,USR-0289,2026-03-10,2026-W11,Manual,Paid search,China,Desktop,New,0,0,0
+EML-0092,USR-0184,2026-03-21,2026-W12,AI assisted,Referral,Malaysia,Mobile,New,1,0,0
+EML-0093,USR-0231,2026-03-06,2026-W10,Manual,Referral,China,Mobile,Returning,1,0,0
+EML-0094,USR-0094,2026-03-30,2026-W14,AI assisted,Referral,Thailand,Desktop,High intent,1,0,0
+EML-0095,USR-0139,2026-03-14,2026-W11,Manual,Paid search,China,Desktop,High intent,1,0,0
+EML-0096,USR-0065,2026-04-24,2026-W17,AI assisted,Paid search,Singapore,Desktop,New,0,0,0
+EML-0097,USR-0018,2026-04-12,2026-W15,Manual,Referral,China,Desktop,High intent,1,0,0
+EML-0098,USR-0176,2026-04-09,2026-W15,AI assisted,Organic,Malaysia,Desktop,New,0,0,0
+EML-0099,USR-0048,2026-04-17,2026-W16,Manual,Referral,China,Desktop,New,0,0,0
+EML-0100,USR-0317,2026-03-29,2026-W13,AI assisted,Referral,Singapore,Desktop,New,1,0,0
+EML-0101,USR-0091,2026-04-04,2026-W14,Manual,Organic,China,Mobile,Returning,1,0,0
+EML-0102,USR-0142,2026-03-16,2026-W12,AI assisted,Referral,Malaysia,Mobile,High intent,1,0,0
+EML-0103,USR-0099,2026-04-11,2026-W15,Manual,Organic,Malaysia,Mobile,Returning,1,0,0
+EML-0104,USR-0238,2026-03-28,2026-W13,AI assisted,Referral,China,Desktop,New,0,0,0
+EML-0105,USR-0075,2026-03-17,2026-W12,Manual,Organic,Thailand,Desktop,High intent,0,0,0
+EML-0106,USR-0063,2026-04-07,2026-W15,AI assisted,Referral,Singapore,Mobile,New,1,1,1
+EML-0107,USR-0205,2026-03-02,2026-W10,Manual,Paid search,China,Mobile,New,1,0,0
+EML-0108,USR-0010,2026-03-20,2026-W12,AI assisted,Campus,Thailand,Desktop,High intent,0,0,0
+EML-0109,USR-0208,2026-03-24,2026-W13,Manual,Organic,China,Mobile,Returning,0,0,0
+EML-0110,USR-0300,2026-03-21,2026-W12,AI assisted,Paid search,Malaysia,Mobile,High intent,0,0,0
+EML-0111,USR-0079,2026-04-06,2026-W15,Manual,Organic,Malaysia,Tablet,High intent,0,0,0
+EML-0112,USR-0300,2026-03-16,2026-W12,AI assisted,Campus,China,Mobile,Returning,0,0,0
+EML-0113,USR-0151,2026-04-03,2026-W14,Manual,Referral,Thailand,Desktop,Returning,0,0,0
+EML-0114,USR-0287,2026-03-08,2026-W10,AI assisted,Campus,Malaysia,Mobile,New,0,0,0
+EML-0115,USR-0010,2026-04-23,2026-W17,Manual,Organic,China,Desktop,Returning,0,0,0
+EML-0116,USR-0155,2026-03-24,2026-W13,AI assisted,Campus,Thailand,Mobile,Returning,0,0,0
+EML-0117,USR-0146,2026-04-12,2026-W15,Manual,Paid search,Singapore,Mobile,High intent,1,0,0
+EML-0118,USR-0278,2026-04-03,2026-W14,AI assisted,Referral,Malaysia,Mobile,New,1,0,0
+EML-0119,USR-0241,2026-04-06,2026-W15,Manual,Campus,China,Mobile,Returning,0,0,0
+EML-0120,USR-0223,2026-04-21,2026-W17,AI assisted,Paid search,Singapore,Desktop,High intent,0,0,0
+EML-0121,USR-0319,2026-04-04,2026-W14,Manual,Campus,China,Desktop,Returning,1,0,0
+EML-0122,USR-0261,2026-04-09,2026-W15,AI assisted,Paid search,China,Desktop,New,0,0,0
+EML-0123,USR-0097,2026-03-17,2026-W12,Manual,Campus,Thailand,Desktop,New,0,0,0
+EML-0124,USR-0135,2026-04-17,2026-W16,AI assisted,Paid search,Singapore,Tablet,High intent,0,0,0
+EML-0125,USR-0292,2026-04-10,2026-W15,Manual,Paid search,Malaysia,Desktop,High intent,0,0,0
+EML-0126,USR-0290,2026-03-02,2026-W10,AI assisted,Organic,Singapore,Mobile,Returning,1,0,0
+EML-0127,USR-0304,2026-03-07,2026-W10,Manual,Organic,China,Tablet,Returning,0,0,0
+EML-0128,USR-0064,2026-03-17,2026-W12,AI assisted,Paid search,Thailand,Mobile,New,0,0,0
+EML-0129,USR-0229,2026-04-05,2026-W14,Manual,Organic,China,Tablet,New,0,0,0
+EML-0130,USR-0003,2026-03-25,2026-W13,AI assisted,Paid search,Malaysia,Desktop,High intent,0,0,0
+EML-0131,USR-0073,2026-04-17,2026-W16,Manual,Referral,Singapore,Mobile,Returning,0,0,0
+EML-0132,USR-0124,2026-03-02,2026-W10,AI assisted,Referral,Malaysia,Mobile,Returning,0,0,0
+EML-0133,USR-0206,2026-04-24,2026-W17,Manual,Referral,Malaysia,Mobile,New,1,1,0
+EML-0134,USR-0074,2026-03-10,2026-W11,AI assisted,Referral,Singapore,Mobile,New,0,0,0
+EML-0135,USR-0272,2026-03-10,2026-W11,Manual,Referral,Singapore,Desktop,High intent,1,0,0
+EML-0136,USR-0156,2026-04-09,2026-W15,AI assisted,Referral,Singapore,Mobile,Returning,1,0,0
+EML-0137,USR-0117,2026-04-06,2026-W15,Manual,Organic,Malaysia,Mobile,High intent,0,0,0
+EML-0138,USR-0292,2026-04-07,2026-W15,AI assisted,Paid search,China,Mobile,High intent,0,0,0
+EML-0139,USR-0047,2026-04-01,2026-W14,Manual,Referral,Singapore,Mobile,New,0,0,0
+EML-0140,USR-0048,2026-03-12,2026-W11,AI assisted,Campus,Malaysia,Desktop,New,0,0,0
+EML-0141,USR-0250,2026-03-18,2026-W12,Manual,Organic,Singapore,Mobile,Returning,1,0,0
+EML-0142,USR-0243,2026-03-15,2026-W11,AI assisted,Paid search,Malaysia,Desktop,New,1,0,0
+EML-0143,USR-0245,2026-03-10,2026-W11,Manual,Referral,Singapore,Mobile,High intent,0,0,0
+EML-0144,USR-0252,2026-04-06,2026-W15,AI assisted,Organic,Malaysia,Mobile,High intent,1,0,0
+EML-0145,USR-0214,2026-04-19,2026-W16,Manual,Paid search,Malaysia,Mobile,High intent,1,0,0
+EML-0146,USR-0272,2026-03-08,2026-W10,AI assisted,Campus,Malaysia,Desktop,Returning,0,0,0
+EML-0147,USR-0072,2026-03-02,2026-W10,Manual,Organic,Thailand,Mobile,New,1,0,0
+EML-0148,USR-0014,2026-04-09,2026-W15,AI assisted,Referral,Malaysia,Mobile,Returning,1,0,0
+EML-0149,USR-0168,2026-04-18,2026-W16,Manual,Organic,Singapore,Mobile,Returning,1,1,1
+EML-0150,USR-0115,2026-03-24,2026-W13,AI assisted,Organic,Singapore,Desktop,High intent,0,0,0
+EML-0151,USR-0216,2026-04-13,2026-W16,Manual,Organic,China,Mobile,High intent,0,0,0
+EML-0152,USR-0255,2026-04-01,2026-W14,AI assisted,Referral,China,Tablet,High intent,1,0,0
+EML-0153,USR-0035,2026-04-25,2026-W17,Manual,Organic,Thailand,Mobile,Returning,1,0,0
+EML-0154,USR-0317,2026-04-20,2026-W17,AI assisted,Paid search,Thailand,Mobile,High intent,0,0,0
+EML-0155,USR-0219,2026-04-15,2026-W16,Manual,Campus,Thailand,Mobile,New,0,0,0
+EML-0156,USR-0246,2026-04-16,2026-W16,AI assisted,Referral,Singapore,Desktop,High intent,1,0,0
+EML-0157,USR-0175,2026-03-17,2026-W12,Manual,Campus,Thailand,Desktop,High intent,1,0,0
+EML-0158,USR-0097,2026-03-26,2026-W13,AI assisted,Paid search,Singapore,Mobile,Returning,0,0,0
+EML-0159,USR-0112,2026-03-18,2026-W12,Manual,Paid search,Singapore,Mobile,High intent,0,0,0
+EML-0160,USR-0100,2026-03-20,2026-W12,AI assisted,Organic,Thailand,Mobile,High intent,1,0,0
+EML-0161,USR-0174,2026-03-23,2026-W13,Manual,Campus,Thailand,Desktop,High intent,0,0,0
+EML-0162,USR-0032,2026-04-25,2026-W17,AI assisted,Campus,Thailand,Mobile,Returning,1,0,0
+EML-0163,USR-0059,2026-04-26,2026-W17,Manual,Referral,China,Desktop,High intent,0,0,0
+EML-0164,USR-0189,2026-03-24,2026-W13,AI assisted,Referral,Singapore,Tablet,High intent,1,0,0
+EML-0165,USR-0287,2026-03-15,2026-W11,Manual,Organic,Singapore,Mobile,New,0,0,0
+EML-0166,USR-0034,2026-03-24,2026-W13,AI assisted,Campus,Malaysia,Mobile,New,1,1,1
+EML-0167,USR-0224,2026-04-13,2026-W16,Manual,Campus,Thailand,Mobile,High intent,1,0,0
+EML-0168,USR-0215,2026-04-10,2026-W15,AI assisted,Campus,China,Mobile,High intent,0,0,0
+EML-0169,USR-0035,2026-04-04,2026-W14,Manual,Campus,Malaysia,Mobile,New,0,0,0
+EML-0170,USR-0031,2026-03-17,2026-W12,AI assisted,Referral,Thailand,Mobile,Returning,1,0,0
+EML-0171,USR-0148,2026-04-15,2026-W16,Manual,Referral,Thailand,Mobile,High intent,0,0,0
+EML-0172,USR-0116,2026-03-03,2026-W10,AI assisted,Paid search,Malaysia,Mobile,New,1,1,0
+EML-0173,USR-0006,2026-03-25,2026-W13,Manual,Organic,Malaysia,Tablet,Returning,0,0,0
+EML-0174,USR-0256,2026-04-26,2026-W17,AI assisted,Organic,Thailand,Mobile,New,0,0,0
+EML-0175,USR-0188,2026-03-20,2026-W12,Manual,Paid search,China,Mobile,New,0,0,0
+EML-0176,USR-0076,2026-03-07,2026-W10,AI assisted,Organic,Singapore,Desktop,New,0,0,0
+EML-0177,USR-0077,2026-03-27,2026-W13,Manual,Organic,China,Mobile,High intent,0,0,0
+EML-0178,USR-0089,2026-04-10,2026-W15,AI assisted,Referral,China,Mobile,High intent,1,0,0
+EML-0179,USR-0016,2026-04-24,2026-W17,Manual,Referral,China,Tablet,Returning,0,0,0
+EML-0180,USR-0043,2026-04-17,2026-W16,AI assisted,Organic,Malaysia,Mobile,New,0,0,0
+EML-0181,USR-0229,2026-03-08,2026-W10,Manual,Campus,Singapore,Desktop,Returning,0,0,0
+EML-0182,USR-0281,2026-04-03,2026-W14,AI assisted,Referral,China,Desktop,High intent,0,0,0
+EML-0183,USR-0059,2026-03-29,2026-W13,Manual,Campus,China,Desktop,New,1,0,0
+EML-0184,USR-0097,2026-03-03,2026-W10,AI assisted,Referral,Malaysia,Mobile,Returning,0,0,0
+EML-0185,USR-0241,2026-04-06,2026-W15,Manual,Paid search,Singapore,Mobile,Returning,0,0,0
+EML-0186,USR-0169,2026-03-12,2026-W11,AI assisted,Organic,Malaysia,Mobile,Returning,1,0,0
+EML-0187,USR-0020,2026-04-07,2026-W15,Manual,Organic,Malaysia,Mobile,High intent,0,0,0
+EML-0188,USR-0258,2026-04-11,2026-W15,AI assisted,Referral,Malaysia,Mobile,High intent,1,0,0
+EML-0189,USR-0074,2026-03-23,2026-W13,Manual,Paid search,Thailand,Desktop,Returning,0,0,0
+EML-0190,USR-0299,2026-03-21,2026-W12,AI assisted,Organic,Malaysia,Tablet,High intent,0,0,0
+EML-0191,USR-0113,2026-03-27,2026-W13,Manual,Campus,Malaysia,Tablet,New,0,0,0
+EML-0192,USR-0267,2026-03-23,2026-W13,AI assisted,Referral,China,Mobile,New,1,0,0
+EML-0193,USR-0061,2026-04-05,2026-W14,Manual,Campus,Thailand,Desktop,Returning,0,0,0
+EML-0194,USR-0238,2026-03-21,2026-W12,AI assisted,Referral,China,Mobile,New,0,0,0
+EML-0195,USR-0092,2026-03-27,2026-W13,Manual,Organic,Malaysia,Mobile,Returning,1,0,0
+EML-0196,USR-0171,2026-03-21,2026-W12,AI assisted,Paid search,Singapore,Desktop,High intent,0,0,0
+EML-0197,USR-0285,2026-03-03,2026-W10,Manual,Paid search,China,Desktop,High intent,0,0,0
+EML-0198,USR-0202,2026-03-17,2026-W12,AI assisted,Paid search,Malaysia,Mobile,New,0,0,0
+EML-0199,USR-0086,2026-03-16,2026-W12,Manual,Organic,Thailand,Desktop,High intent,0,0,0
+EML-0200,USR-0242,2026-03-07,2026-W10,AI assisted,Organic,Singapore,Mobile,Returning,1,0,0
+EML-0201,USR-0078,2026-04-15,2026-W16,Manual,Paid search,China,Desktop,New,0,0,0
+EML-0202,USR-0314,2026-03-14,2026-W11,AI assisted,Referral,Singapore,Desktop,New,1,1,0
+EML-0203,USR-0045,2026-03-11,2026-W11,Manual,Organic,Malaysia,Mobile,New,0,0,0
+EML-0204,USR-0228,2026-04-02,2026-W14,AI assisted,Organic,Thailand,Desktop,New,1,0,0
+EML-0205,USR-0275,2026-03-08,2026-W10,Manual,Paid search,Malaysia,Mobile,Returning,1,0,0
+EML-0206,USR-0186,2026-04-25,2026-W17,AI assisted,Referral,Malaysia,Desktop,Returning,0,0,0
+EML-0207,USR-0218,2026-04-18,2026-W16,Manual,Paid search,Thailand,Mobile,New,1,0,0
+EML-0208,USR-0182,2026-03-25,2026-W13,AI assisted,Referral,China,Mobile,New,0,0,0
+EML-0209,USR-0081,2026-04-03,2026-W14,Manual,Organic,Malaysia,Desktop,Returning,0,0,0
+EML-0210,USR-0170,2026-03-19,2026-W12,AI assisted,Organic,Malaysia,Mobile,New,0,0,0
+EML-0211,USR-0191,2026-04-25,2026-W17,Manual,Paid search,China,Mobile,New,1,0,0
+EML-0212,USR-0033,2026-03-21,2026-W12,AI assisted,Paid search,Malaysia,Desktop,High intent,1,0,0
+EML-0213,USR-0113,2026-03-15,2026-W11,Manual,Organic,Thailand,Desktop,High intent,0,0,0
+EML-0214,USR-0193,2026-04-24,2026-W17,AI assisted,Paid search,Malaysia,Tablet,Returning,1,0,0
+EML-0215,USR-0291,2026-03-08,2026-W10,Manual,Paid search,Malaysia,Desktop,High intent,0,0,0
+EML-0216,USR-0276,2026-04-03,2026-W14,AI assisted,Paid search,China,Mobile,Returning,1,0,0
+EML-0217,USR-0109,2026-03-21,2026-W12,Manual,Campus,Thailand,Mobile,New,0,0,0
+EML-0218,USR-0308,2026-03-13,2026-W11,AI assisted,Paid search,Singapore,Mobile,New,0,0,0
+EML-0219,USR-0235,2026-04-16,2026-W16,Manual,Campus,China,Desktop,Returning,1,1,0
+EML-0220,USR-0272,2026-03-27,2026-W13,AI assisted,Referral,Thailand,Mobile,Returning,0,0,0
+EML-0221,USR-0055,2026-03-26,2026-W13,Manual,Organic,Thailand,Mobile,High intent,1,0,0
+EML-0222,USR-0198,2026-04-07,2026-W15,AI assisted,Campus,China,Mobile,High intent,1,0,0
+EML-0223,USR-0098,2026-03-27,2026-W13,Manual,Campus,China,Tablet,New,0,0,0
+EML-0224,USR-0305,2026-03-28,2026-W13,AI assisted,Referral,Singapore,Mobile,Returning,0,0,0
+EML-0225,USR-0175,2026-03-30,2026-W14,Manual,Organic,Malaysia,Mobile,Returning,1,0,0
+EML-0226,USR-0223,2026-03-18,2026-W12,AI assisted,Referral,Malaysia,Mobile,Returning,1,1,0
+EML-0227,USR-0319,2026-03-30,2026-W14,Manual,Organic,Singapore,Mobile,New,0,0,0
+EML-0228,USR-0207,2026-04-08,2026-W15,AI assisted,Organic,Thailand,Mobile,High intent,0,0,0
+EML-0229,USR-0024,2026-04-23,2026-W17,Manual,Referral,Malaysia,Mobile,New,0,0,0
+EML-0230,USR-0065,2026-03-11,2026-W11,AI assisted,Organic,China,Mobile,High intent,0,0,0
+EML-0231,USR-0036,2026-04-03,2026-W14,Manual,Paid search,Malaysia,Mobile,New,1,0,0
+EML-0232,USR-0034,2026-03-17,2026-W12,AI assisted,Referral,Thailand,Desktop,Returning,0,0,0
+EML-0233,USR-0049,2026-03-03,2026-W10,Manual,Organic,Singapore,Mobile,Returning,0,0,0
+EML-0234,USR-0033,2026-03-15,2026-W11,AI assisted,Campus,China,Mobile,Returning,1,0,0
+EML-0235,USR-0051,2026-04-21,2026-W17,Manual,Organic,China,Desktop,Returning,0,0,0
+EML-0236,USR-0198,2026-04-02,2026-W14,AI assisted,Referral,Malaysia,Mobile,High intent,0,0,0
+EML-0237,USR-0190,2026-04-04,2026-W14,Manual,Campus,Singapore,Mobile,New,1,0,0
+EML-0238,USR-0177,2026-04-14,2026-W16,AI assisted,Campus,China,Desktop,High intent,1,0,0
+EML-0239,USR-0293,2026-04-26,2026-W17,Manual,Paid search,Thailand,Mobile,High intent,0,0,0
+EML-0240,USR-0236,2026-04-22,2026-W17,AI assisted,Organic,Singapore,Mobile,New,0,0,0
+EML-0241,USR-0309,2026-04-17,2026-W16,Manual,Organic,Singapore,Mobile,Returning,0,0,0
+EML-0242,USR-0019,2026-03-18,2026-W12,AI assisted,Campus,Thailand,Tablet,New,0,0,0
+EML-0243,USR-0206,2026-03-24,2026-W13,Manual,Campus,Malaysia,Desktop,Returning,0,0,0
+EML-0244,USR-0111,2026-04-06,2026-W15,AI assisted,Paid search,Thailand,Mobile,High intent,1,1,0
+EML-0245,USR-0224,2026-03-14,2026-W11,Manual,Referral,China,Mobile,Returning,0,0,0
+EML-0246,USR-0265,2026-04-04,2026-W14,AI assisted,Organic,China,Mobile,High intent,1,0,0
+EML-0247,USR-0244,2026-04-05,2026-W14,Manual,Referral,Singapore,Mobile,High intent,1,0,0
+EML-0248,USR-0161,2026-04-02,2026-W14,AI assisted,Paid search,Malaysia,Mobile,Returning,1,1,0
+EML-0249,USR-0306,2026-04-08,2026-W15,Manual,Referral,Malaysia,Mobile,High intent,1,0,0
+EML-0250,USR-0012,2026-04-19,2026-W16,AI assisted,Campus,Thailand,Desktop,High intent,1,0,0
+EML-0251,USR-0212,2026-04-19,2026-W16,Manual,Paid search,Malaysia,Mobile,High intent,1,0,0
+EML-0252,USR-0017,2026-03-28,2026-W13,AI assisted,Paid search,Singapore,Mobile,New,1,1,1
+EML-0253,USR-0221,2026-03-26,2026-W13,Manual,Referral,Malaysia,Mobile,Returning,0,0,0
+EML-0254,USR-0198,2026-04-16,2026-W16,AI assisted,Referral,China,Desktop,High intent,1,0,0
+EML-0255,USR-0064,2026-04-07,2026-W15,Manual,Paid search,Thailand,Tablet,New,1,0,0
+EML-0256,USR-0038,2026-04-23,2026-W17,AI assisted,Organic,Malaysia,Mobile,New,0,0,0
+EML-0257,USR-0316,2026-03-08,2026-W10,Manual,Paid search,China,Mobile,New,0,0,0
+EML-0258,USR-0252,2026-04-14,2026-W16,AI assisted,Organic,China,Desktop,New,0,0,0
+EML-0259,USR-0160,2026-03-02,2026-W10,Manual,Paid search,Singapore,Mobile,Returning,1,0,0
+EML-0260,USR-0034,2026-04-14,2026-W16,AI assisted,Campus,Malaysia,Mobile,New,0,0,0
+EML-0261,USR-0117,2026-04-03,2026-W14,Manual,Organic,Singapore,Mobile,New,0,0,0
+EML-0262,USR-0090,2026-03-28,2026-W13,AI assisted,Campus,Malaysia,Mobile,New,0,0,0
+EML-0263,USR-0022,2026-04-21,2026-W17,Manual,Campus,Malaysia,Desktop,New,0,0,0
+EML-0264,USR-0014,2026-03-21,2026-W12,AI assisted,Campus,China,Mobile,Returning,1,0,0
+EML-0265,USR-0155,2026-04-09,2026-W15,Manual,Organic,Thailand,Desktop,High intent,0,0,0
+EML-0266,USR-0057,2026-03-24,2026-W13,AI assisted,Organic,Malaysia,Mobile,High intent,0,0,0
+EML-0267,USR-0246,2026-03-26,2026-W13,Manual,Paid search,Thailand,Desktop,New,0,0,0
+EML-0268,USR-0044,2026-03-16,2026-W12,AI assisted,Organic,Malaysia,Desktop,High intent,1,1,1
+EML-0269,USR-0164,2026-03-14,2026-W11,Manual,Paid search,Malaysia,Mobile,High intent,0,0,0
+EML-0270,USR-0215,2026-03-08,2026-W10,AI assisted,Organic,China,Tablet,High intent,0,0,0
+EML-0271,USR-0266,2026-04-26,2026-W17,Manual,Organic,China,Desktop,New,1,0,0
+EML-0272,USR-0182,2026-03-09,2026-W11,AI assisted,Referral,Singapore,Mobile,Returning,0,0,0
+EML-0273,USR-0207,2026-03-26,2026-W13,Manual,Campus,Malaysia,Desktop,New,1,0,0
+EML-0274,USR-0098,2026-03-31,2026-W14,AI assisted,Campus,China,Mobile,High intent,0,0,0
+EML-0275,USR-0021,2026-04-07,2026-W15,Manual,Referral,Thailand,Mobile,Returning,1,0,0
+EML-0276,USR-0122,2026-04-07,2026-W15,AI assisted,Referral,Singapore,Desktop,High intent,0,0,0
+EML-0277,USR-0274,2026-03-05,2026-W10,Manual,Organic,Singapore,Mobile,New,0,0,0
+EML-0278,USR-0112,2026-04-25,2026-W17,AI assisted,Organic,China,Mobile,Returning,0,0,0
+EML-0279,USR-0009,2026-03-05,2026-W10,Manual,Organic,China,Desktop,High intent,1,0,0
+EML-0280,USR-0047,2026-03-08,2026-W10,AI assisted,Referral,Singapore,Mobile,High intent,0,0,0
+EML-0281,USR-0204,2026-03-28,2026-W13,Manual,Organic,Thailand,Mobile,High intent,1,1,0
+EML-0282,USR-0266,2026-03-20,2026-W12,AI assisted,Referral,Malaysia,Tablet,Returning,0,0,0
+EML-0283,USR-0028,2026-03-28,2026-W13,Manual,Paid search,Thailand,Mobile,Returning,0,0,0
+EML-0284,USR-0273,2026-04-06,2026-W15,AI assisted,Referral,Malaysia,Mobile,New,1,0,0
+EML-0285,USR-0114,2026-03-12,2026-W11,Manual,Campus,China,Mobile,New,1,0,0
+EML-0286,USR-0025,2026-04-26,2026-W17,AI assisted,Organic,Thailand,Mobile,New,0,0,0
+EML-0287,USR-0171,2026-03-27,2026-W13,Manual,Referral,Malaysia,Tablet,New,1,0,0
+EML-0288,USR-0055,2026-03-19,2026-W12,AI assisted,Paid search,Thailand,Mobile,Returning,1,0,0
+EML-0289,USR-0109,2026-03-12,2026-W11,Manual,Campus,Singapore,Mobile,New,0,0,0
+EML-0290,USR-0215,2026-03-18,2026-W12,AI assisted,Campus,China,Desktop,High intent,1,0,0
+EML-0291,USR-0101,2026-04-15,2026-W16,Manual,Paid search,Singapore,Mobile,New,0,0,0
+EML-0292,USR-0017,2026-04-04,2026-W14,AI assisted,Referral,China,Tablet,High intent,1,0,0
+EML-0293,USR-0105,2026-03-22,2026-W12,Manual,Campus,Thailand,Desktop,Returning,0,0,0
+EML-0294,USR-0137,2026-04-05,2026-W14,AI assisted,Campus,China,Mobile,Returning,0,0,0
+EML-0295,USR-0147,2026-03-04,2026-W10,Manual,Campus,China,Mobile,High intent,0,0,0
+EML-0296,USR-0141,2026-04-10,2026-W15,AI assisted,Paid search,China,Desktop,Returning,0,0,0
+EML-0297,USR-0297,2026-04-23,2026-W17,Manual,Campus,China,Mobile,New,1,0,0
+EML-0298,USR-0022,2026-04-20,2026-W17,AI assisted,Campus,China,Desktop,High intent,0,0,0
+EML-0299,USR-0155,2026-03-10,2026-W11,Manual,Referral,Malaysia,Desktop,Returning,0,0,0
+EML-0300,USR-0068,2026-04-12,2026-W15,AI assisted,Organic,Malaysia,Desktop,New,0,0,0
+EML-0301,USR-0177,2026-04-11,2026-W15,Manual,Organic,Singapore,Tablet,High intent,0,0,0
+EML-0302,USR-0009,2026-03-12,2026-W11,AI assisted,Paid search,Malaysia,Mobile,Returning,1,0,0
+EML-0303,USR-0056,2026-03-17,2026-W12,Manual,Organic,Malaysia,Mobile,Returning,1,0,0
+EML-0304,USR-0152,2026-03-03,2026-W10,AI assisted,Paid search,China,Mobile,Returning,0,0,0
+EML-0305,USR-0258,2026-04-22,2026-W17,Manual,Campus,Singapore,Mobile,Returning,0,0,0
+EML-0306,USR-0019,2026-04-05,2026-W14,AI assisted,Organic,Singapore,Mobile,High intent,0,0,0
+EML-0307,USR-0019,2026-04-07,2026-W15,Manual,Organic,Malaysia,Mobile,New,1,0,0
+EML-0308,USR-0026,2026-03-28,2026-W13,AI assisted,Referral,Thailand,Desktop,Returning,0,0,0
+EML-0309,USR-0251,2026-04-14,2026-W16,Manual,Organic,Singapore,Tablet,New,0,0,0
+EML-0310,USR-0097,2026-04-26,2026-W17,AI assisted,Paid search,Thailand,Mobile,Returning,1,0,0
+EML-0311,USR-0072,2026-04-19,2026-W16,Manual,Referral,Singapore,Mobile,Returning,1,0,0
+EML-0312,USR-0160,2026-03-24,2026-W13,AI assisted,Campus,Singapore,Mobile,High intent,1,0,0
+EML-0313,USR-0277,2026-04-07,2026-W15,Manual,Organic,Singapore,Desktop,Returning,1,0,0
+EML-0314,USR-0226,2026-04-19,2026-W16,AI assisted,Campus,China,Desktop,New,0,0,0
+EML-0315,USR-0229,2026-03-25,2026-W13,Manual,Campus,China,Mobile,Returning,1,0,0
+EML-0316,USR-0122,2026-04-02,2026-W14,AI assisted,Campus,Malaysia,Desktop,High intent,1,0,0
+EML-0317,USR-0043,2026-04-15,2026-W16,Manual,Campus,China,Mobile,High intent,0,0,0
+EML-0318,USR-0078,2026-03-24,2026-W13,AI assisted,Paid search,Thailand,Mobile,New,1,0,0
+EML-0319,USR-0101,2026-04-05,2026-W14,Manual,Referral,Singapore,Mobile,High intent,0,0,0
+EML-0320,USR-0179,2026-03-04,2026-W10,AI assisted,Organic,Singapore,Desktop,New,1,0,0
+EML-0321,USR-0038,2026-03-02,2026-W10,Manual,Organic,Thailand,Desktop,High intent,1,0,0
+EML-0322,USR-0299,2026-03-18,2026-W12,AI assisted,Referral,Singapore,Mobile,New,1,0,0
+EML-0323,USR-0158,2026-04-22,2026-W17,Manual,Campus,Malaysia,Desktop,Returning,0,0,0
+EML-0324,USR-0138,2026-03-12,2026-W11,AI assisted,Paid search,Malaysia,Mobile,Returning,0,0,0
+EML-0325,USR-0082,2026-03-08,2026-W10,Manual,Organic,China,Mobile,High intent,0,0,0
+EML-0326,USR-0137,2026-03-05,2026-W10,AI assisted,Referral,Malaysia,Mobile,High intent,0,0,0
+EML-0327,USR-0230,2026-04-02,2026-W14,Manual,Organic,Thailand,Desktop,High intent,1,0,0
+EML-0328,USR-0236,2026-03-24,2026-W13,AI assisted,Paid search,Thailand,Desktop,Returning,0,0,0
+EML-0329,USR-0208,2026-03-26,2026-W13,Manual,Campus,Malaysia,Mobile,High intent,1,0,0
+EML-0330,USR-0047,2026-03-22,2026-W12,AI assisted,Campus,Malaysia,Desktop,New,0,0,0
+EML-0331,USR-0153,2026-04-25,2026-W17,Manual,Paid search,China,Desktop,High intent,0,0,0
+EML-0332,USR-0303,2026-03-10,2026-W11,AI assisted,Paid search,Malaysia,Mobile,New,0,0,0
+EML-0333,USR-0274,2026-03-18,2026-W12,Manual,Campus,Singapore,Desktop,Returning,0,0,0
+EML-0334,USR-0297,2026-03-31,2026-W14,AI assisted,Paid search,Thailand,Desktop,High intent,1,1,1
+EML-0335,USR-0132,2026-04-22,2026-W17,Manual,Paid search,Thailand,Desktop,New,0,0,0
+EML-0336,USR-0192,2026-04-05,2026-W14,AI assisted,Paid search,Thailand,Desktop,New,1,1,1
+EML-0337,USR-0062,2026-03-11,2026-W11,Manual,Referral,Malaysia,Desktop,New,1,0,0
+EML-0338,USR-0142,2026-03-17,2026-W12,AI assisted,Campus,China,Mobile,High intent,1,0,0
+EML-0339,USR-0085,2026-03-11,2026-W11,Manual,Paid search,China,Mobile,High intent,1,0,0
+EML-0340,USR-0201,2026-04-17,2026-W16,AI assisted,Paid search,Malaysia,Mobile,Returning,0,0,0
+EML-0341,USR-0124,2026-04-14,2026-W16,Manual,Paid search,China,Mobile,High intent,0,0,0
+EML-0342,USR-0025,2026-03-31,2026-W14,AI assisted,Referral,Malaysia,Desktop,High intent,0,0,0
+EML-0343,USR-0271,2026-04-16,2026-W16,Manual,Campus,China,Tablet,High intent,1,0,0
+EML-0344,USR-0133,2026-03-06,2026-W10,AI assisted,Organic,Singapore,Mobile,Returning,0,0,0
+EML-0345,USR-0125,2026-03-17,2026-W12,Manual,Paid search,Malaysia,Tablet,Returning,1,0,0
+EML-0346,USR-0065,2026-04-09,2026-W15,AI assisted,Campus,Malaysia,Mobile,High intent,0,0,0
+EML-0347,USR-0012,2026-04-10,2026-W15,Manual,Campus,Singapore,Desktop,New,1,0,0
+EML-0348,USR-0068,2026-04-04,2026-W14,AI assisted,Referral,Singapore,Desktop,High intent,0,0,0
+EML-0349,USR-0033,2026-03-20,2026-W12,Manual,Campus,China,Mobile,Returning,1,0,0
+EML-0350,USR-0106,2026-03-27,2026-W13,AI assisted,Organic,Thailand,Tablet,New,0,0,0
+EML-0351,USR-0304,2026-04-01,2026-W14,Manual,Organic,Singapore,Mobile,New,1,1,1
+EML-0352,USR-0272,2026-03-09,2026-W11,AI assisted,Organic,Thailand,Desktop,New,1,0,0
+EML-0353,USR-0264,2026-04-15,2026-W16,Manual,Paid search,Malaysia,Mobile,New,0,0,0
+EML-0354,USR-0163,2026-03-16,2026-W12,AI assisted,Paid search,China,Mobile,New,0,0,0
+EML-0355,USR-0009,2026-03-13,2026-W11,Manual,Campus,Thailand,Mobile,High intent,1,0,0
+EML-0356,USR-0215,2026-03-10,2026-W11,AI assisted,Referral,Singapore,Mobile,Returning,0,0,0
+EML-0357,USR-0070,2026-03-22,2026-W12,Manual,Referral,Malaysia,Desktop,High intent,1,0,0
+EML-0358,USR-0188,2026-03-22,2026-W12,AI assisted,Organic,China,Mobile,New,0,0,0
+EML-0359,USR-0153,2026-03-17,2026-W12,Manual,Organic,Thailand,Mobile,High intent,0,0,0
+EML-0360,USR-0085,2026-03-23,2026-W13,AI assisted,Organic,Thailand,Mobile,High intent,0,0,0
+EML-0361,USR-0144,2026-04-05,2026-W14,Manual,Referral,China,Mobile,New,0,0,0
+EML-0362,USR-0074,2026-03-24,2026-W13,AI assisted,Organic,Singapore,Tablet,New,0,0,0
+EML-0363,USR-0219,2026-03-04,2026-W10,Manual,Paid search,China,Mobile,High intent,1,0,0
+EML-0364,USR-0067,2026-03-20,2026-W12,AI assisted,Organic,Singapore,Mobile,Returning,0,0,0
+EML-0365,USR-0056,2026-04-14,2026-W16,Manual,Campus,Singapore,Mobile,Returning,0,0,0
+EML-0366,USR-0079,2026-03-24,2026-W13,AI assisted,Paid search,Malaysia,Mobile,High intent,0,0,0
+EML-0367,USR-0163,2026-03-06,2026-W10,Manual,Campus,China,Mobile,High intent,1,0,0
+EML-0368,USR-0157,2026-04-13,2026-W16,AI assisted,Paid search,China,Desktop,Returning,1,0,0
+EML-0369,USR-0311,2026-04-17,2026-W16,Manual,Organic,Singapore,Desktop,High intent,0,0,0
+EML-0370,USR-0244,2026-03-26,2026-W13,AI assisted,Campus,Thailand,Tablet,New,0,0,0
+EML-0371,USR-0177,2026-03-24,2026-W13,Manual,Paid search,Thailand,Mobile,High intent,0,0,0
+EML-0372,USR-0189,2026-03-11,2026-W11,AI assisted,Campus,Singapore,Mobile,High intent,0,0,0
+EML-0373,USR-0173,2026-04-11,2026-W15,Manual,Paid search,China,Mobile,New,0,0,0
+EML-0374,USR-0263,2026-03-04,2026-W10,AI assisted,Referral,Thailand,Desktop,New,0,0,0
+EML-0375,USR-0151,2026-04-22,2026-W17,Manual,Referral,Malaysia,Desktop,New,0,0,0
+EML-0376,USR-0260,2026-04-02,2026-W14,AI assisted,Organic,China,Mobile,Returning,1,0,0
+EML-0377,USR-0015,2026-03-11,2026-W11,Manual,Referral,Singapore,Mobile,New,1,1,0
+EML-0378,USR-0146,2026-03-27,2026-W13,AI assisted,Campus,China,Mobile,Returning,1,0,0
+EML-0379,USR-0208,2026-04-12,2026-W15,Manual,Paid search,Singapore,Mobile,Returning,1,1,0
+EML-0380,USR-0124,2026-04-13,2026-W16,AI assisted,Organic,Singapore,Mobile,High intent,1,1,1
+EML-0381,USR-0100,2026-04-03,2026-W14,Manual,Referral,Thailand,Mobile,Returning,0,0,0
+EML-0382,USR-0044,2026-03-20,2026-W12,AI assisted,Paid search,Thailand,Mobile,New,0,0,0
+EML-0383,USR-0184,2026-03-14,2026-W11,Manual,Paid search,Singapore,Mobile,New,1,0,0
+EML-0384,USR-0060,2026-04-01,2026-W14,AI assisted,Campus,Singapore,Mobile,High intent,0,0,0
+EML-0385,USR-0106,2026-03-18,2026-W12,Manual,Campus,Malaysia,Desktop,High intent,0,0,0
+EML-0386,USR-0200,2026-04-21,2026-W17,AI assisted,Paid search,China,Tablet,High intent,0,0,0
+EML-0387,USR-0076,2026-03-29,2026-W13,Manual,Paid search,Thailand,Mobile,High intent,0,0,0
+EML-0388,USR-0316,2026-04-10,2026-W15,AI assisted,Organic,Malaysia,Mobile,Returning,1,0,0
+EML-0389,USR-0183,2026-03-07,2026-W10,Manual,Paid search,Malaysia,Desktop,Returning,1,0,0
+EML-0390,USR-0028,2026-03-16,2026-W12,AI assisted,Campus,Singapore,Mobile,New,0,0,0
+EML-0391,USR-0057,2026-04-15,2026-W16,Manual,Organic,Singapore,Desktop,High intent,0,0,0
+EML-0392,USR-0222,2026-03-06,2026-W10,AI assisted,Paid search,Singapore,Mobile,Returning,1,0,0
+EML-0393,USR-0254,2026-04-04,2026-W14,Manual,Organic,Malaysia,Desktop,Returning,1,0,0
+EML-0394,USR-0216,2026-04-13,2026-W16,AI assisted,Organic,Singapore,Mobile,New,1,1,0
+EML-0395,USR-0263,2026-04-12,2026-W15,Manual,Paid search,Thailand,Mobile,New,0,0,0
+EML-0396,USR-0126,2026-03-23,2026-W13,AI assisted,Organic,China,Desktop,New,1,0,0
+EML-0397,USR-0166,2026-03-12,2026-W11,Manual,Paid search,China,Tablet,High intent,0,0,0
+EML-0398,USR-0111,2026-03-22,2026-W12,AI assisted,Referral,Singapore,Mobile,Returning,1,0,0
+EML-0399,USR-0236,2026-03-23,2026-W13,Manual,Referral,Singapore,Mobile,New,1,0,0
+EML-0400,USR-0007,2026-03-12,2026-W11,AI assisted,Organic,China,Mobile,High intent,1,0,0
+EML-0401,USR-0289,2026-03-23,2026-W13,Manual,Paid search,Malaysia,Tablet,High intent,1,0,0
+EML-0402,USR-0009,2026-04-17,2026-W16,AI assisted,Referral,Malaysia,Desktop,New,1,1,1
+EML-0403,USR-0047,2026-03-12,2026-W11,Manual,Paid search,Thailand,Mobile,New,1,0,0
+EML-0404,USR-0234,2026-03-04,2026-W10,AI assisted,Referral,China,Tablet,Returning,0,0,0
+EML-0405,USR-0182,2026-03-12,2026-W11,Manual,Organic,China,Mobile,New,1,0,0
+EML-0406,USR-0270,2026-04-03,2026-W14,AI assisted,Referral,China,Desktop,High intent,1,0,0
+EML-0407,USR-0214,2026-03-31,2026-W14,Manual,Organic,Malaysia,Mobile,New,0,0,0
+EML-0408,USR-0007,2026-03-10,2026-W11,AI assisted,Organic,China,Mobile,New,1,1,0
+EML-0409,USR-0190,2026-03-07,2026-W10,Manual,Referral,Malaysia,Mobile,New,0,0,0
+EML-0410,USR-0154,2026-03-10,2026-W11,AI assisted,Organic,Thailand,Mobile,Returning,1,1,0
+EML-0411,USR-0011,2026-04-15,2026-W16,Manual,Referral,Malaysia,Desktop,New,0,0,0
+EML-0412,USR-0181,2026-04-17,2026-W16,AI assisted,Paid search,Thailand,Desktop,New,0,0,0
+EML-0413,USR-0218,2026-03-21,2026-W12,Manual,Organic,Thailand,Tablet,New,0,0,0
+EML-0414,USR-0125,2026-04-12,2026-W15,AI assisted,Referral,Thailand,Mobile,New,0,0,0
+EML-0415,USR-0227,2026-03-26,2026-W13,Manual,Paid search,Singapore,Mobile,New,0,0,0
+EML-0416,USR-0306,2026-04-21,2026-W17,AI assisted,Campus,China,Mobile,Returning,1,0,0
+EML-0417,USR-0272,2026-03-20,2026-W12,Manual,Paid search,Singapore,Tablet,New,1,0,0
+EML-0418,USR-0054,2026-03-13,2026-W11,AI assisted,Paid search,China,Mobile,High intent,0,0,0
+EML-0419,USR-0217,2026-04-12,2026-W15,Manual,Organic,China,Mobile,New,0,0,0
+EML-0420,USR-0280,2026-04-22,2026-W17,AI assisted,Referral,Singapore,Desktop,New,0,0,0
+EML-0421,USR-0147,2026-03-14,2026-W11,Manual,Campus,China,Mobile,New,0,0,0
+EML-0422,USR-0311,2026-04-19,2026-W16,AI assisted,Campus,Thailand,Desktop,Returning,0,0,0
+EML-0423,USR-0155,2026-03-16,2026-W12,Manual,Organic,Thailand,Desktop,High intent,0,0,0
+EML-0424,USR-0203,2026-03-15,2026-W11,AI assisted,Paid search,Singapore,Desktop,Returning,1,0,0
+EML-0425,USR-0065,2026-04-23,2026-W17,Manual,Campus,Malaysia,Mobile,Returning,0,0,0
+EML-0426,USR-0030,2026-04-24,2026-W17,AI assisted,Organic,Singapore,Mobile,Returning,1,1,0
+EML-0427,USR-0273,2026-03-13,2026-W11,Manual,Paid search,China,Desktop,New,0,0,0
+EML-0428,USR-0015,2026-03-13,2026-W11,AI assisted,Referral,Malaysia,Desktop,New,0,0,0
+EML-0429,USR-0294,2026-03-18,2026-W12,Manual,Paid search,Thailand,Mobile,High intent,1,0,0
+EML-0430,USR-0267,2026-03-14,2026-W11,AI assisted,Campus,China,Desktop,Returning,0,0,0
+EML-0431,USR-0276,2026-04-08,2026-W15,Manual,Organic,Singapore,Mobile,New,0,0,0
+EML-0432,USR-0021,2026-04-05,2026-W14,AI assisted,Campus,Singapore,Mobile,Returning,0,0,0
+EML-0433,USR-0295,2026-03-03,2026-W10,Manual,Referral,Thailand,Mobile,New,0,0,0
+EML-0434,USR-0243,2026-03-29,2026-W13,AI assisted,Organic,Singapore,Mobile,Returning,1,0,0
+EML-0435,USR-0235,2026-04-06,2026-W15,Manual,Organic,Thailand,Desktop,Returning,0,0,0
+EML-0436,USR-0268,2026-04-11,2026-W15,AI assisted,Paid search,China,Mobile,New,0,0,0
+EML-0437,USR-0291,2026-03-28,2026-W13,Manual,Referral,China,Mobile,New,0,0,0
+EML-0438,USR-0060,2026-04-04,2026-W14,AI assisted,Paid search,Malaysia,Desktop,New,1,1,1
+EML-0439,USR-0147,2026-03-28,2026-W13,Manual,Referral,China,Mobile,Returning,1,1,1
+EML-0440,USR-0151,2026-03-20,2026-W12,AI assisted,Referral,Singapore,Mobile,New,0,0,0
+EML-0441,USR-0020,2026-03-06,2026-W10,Manual,Organic,Malaysia,Mobile,New,0,0,0
+EML-0442,USR-0222,2026-03-19,2026-W12,AI assisted,Referral,Singapore,Mobile,High intent,1,0,0
+EML-0443,USR-0054,2026-03-14,2026-W11,Manual,Campus,Malaysia,Mobile,High intent,1,0,0
+EML-0444,USR-0075,2026-04-21,2026-W17,AI assisted,Paid search,China,Desktop,High intent,1,0,0
+EML-0445,USR-0266,2026-04-17,2026-W16,Manual,Paid search,China,Desktop,High intent,1,0,0
+EML-0446,USR-0159,2026-04-17,2026-W16,AI assisted,Paid search,China,Desktop,Returning,0,0,0
+EML-0447,USR-0139,2026-03-03,2026-W10,Manual,Organic,Malaysia,Desktop,Returning,1,0,0
+EML-0448,USR-0233,2026-04-22,2026-W17,AI assisted,Referral,Thailand,Mobile,Returning,0,0,0
+EML-0449,USR-0008,2026-03-02,2026-W10,Manual,Paid search,Malaysia,Desktop,Returning,1,0,0
+EML-0450,USR-0118,2026-03-06,2026-W10,AI assisted,Paid search,China,Desktop,Returning,1,0,0
+EML-0451,USR-0313,2026-03-03,2026-W10,Manual,Referral,Singapore,Mobile,New,1,0,0
+EML-0452,USR-0158,2026-04-20,2026-W17,AI assisted,Referral,Thailand,Desktop,New,0,0,0
+EML-0453,USR-0294,2026-03-12,2026-W11,Manual,Organic,Thailand,Desktop,Returning,0,0,0
+EML-0454,USR-0251,2026-04-13,2026-W16,AI assisted,Referral,Thailand,Tablet,New,0,0,0
+EML-0455,USR-0320,2026-04-19,2026-W16,Manual,Organic,Malaysia,Desktop,High intent,0,0,0
+EML-0456,USR-0221,2026-04-06,2026-W15,AI assisted,Campus,Thailand,Mobile,High intent,0,0,0
+EML-0457,USR-0103,2026-03-25,2026-W13,Manual,Paid search,Thailand,Mobile,High intent,0,0,0
+EML-0458,USR-0038,2026-03-23,2026-W13,AI assisted,Paid search,Thailand,Desktop,High intent,0,0,0
+EML-0459,USR-0285,2026-04-16,2026-W16,Manual,Paid search,China,Mobile,New,1,1,1
+EML-0460,USR-0268,2026-03-25,2026-W13,AI assisted,Campus,Malaysia,Desktop,Returning,1,0,0
+EML-0461,USR-0261,2026-03-19,2026-W12,Manual,Referral,Malaysia,Mobile,High intent,1,0,0
+EML-0462,USR-0302,2026-03-04,2026-W10,AI assisted,Paid search,China,Desktop,High intent,0,0,0
+EML-0463,USR-0174,2026-03-30,2026-W14,Manual,Campus,Malaysia,Desktop,New,1,0,0
+EML-0464,USR-0050,2026-04-02,2026-W14,AI assisted,Paid search,Thailand,Desktop,Returning,1,0,0
+EML-0465,USR-0104,2026-03-02,2026-W10,Manual,Referral,China,Desktop,High intent,0,0,0
+EML-0466,USR-0176,2026-04-16,2026-W16,AI assisted,Referral,Thailand,Desktop,High intent,0,0,0
+EML-0467,USR-0297,2026-03-22,2026-W12,Manual,Campus,China,Mobile,High intent,0,0,0
+EML-0468,USR-0320,2026-03-14,2026-W11,AI assisted,Campus,China,Mobile,High intent,0,0,0
+EML-0469,USR-0055,2026-04-13,2026-W16,Manual,Campus,Thailand,Desktop,High intent,0,0,0
+EML-0470,USR-0070,2026-04-24,2026-W17,AI assisted,Organic,Thailand,Mobile,High intent,0,0,0
+EML-0471,USR-0245,2026-04-14,2026-W16,Manual,Paid search,China,Mobile,Returning,1,0,0
+EML-0472,USR-0299,2026-03-26,2026-W13,AI assisted,Paid search,Singapore,Tablet,High intent,1,0,0
+EML-0473,USR-0318,2026-04-11,2026-W15,Manual,Campus,Malaysia,Desktop,New,1,0,0
+EML-0474,USR-0011,2026-04-22,2026-W17,AI assisted,Campus,Thailand,Desktop,New,0,0,0
+EML-0475,USR-0164,2026-03-25,2026-W13,Manual,Organic,Malaysia,Desktop,Returning,0,0,0
+EML-0476,USR-0152,2026-04-06,2026-W15,AI assisted,Campus,Thailand,Desktop,Returning,0,0,0
+EML-0477,USR-0065,2026-04-02,2026-W14,Manual,Referral,Thailand,Desktop,Returning,0,0,0
+EML-0478,USR-0266,2026-03-11,2026-W11,AI assisted,Organic,China,Mobile,High intent,1,1,1
+EML-0479,USR-0264,2026-03-10,2026-W11,Manual,Referral,Singapore,Desktop,High intent,0,0,0
+EML-0480,USR-0158,2026-04-05,2026-W14,AI assisted,Referral,Thailand,Mobile,Returning,1,0,0
